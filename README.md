@@ -2,8 +2,8 @@
 # [Professional README Generator](#title)
 
 ## [Description](#description)
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app takes the hastle out of having to start from scratch for each assignment. Its takes all the hastle out byt allowong you to forllow a step by step process to generate a professional read me each ocaasiion. Saving you valuable time.
->> - Deployed Project URL: https://fishgif.github.io/read-me-generator/
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app saves you time and effort buy generating a high quality read me.
+>> - Deployed Project URL:  https://fishgif.github.io/read-me-generator/
 >> - Project Repository URL: https://github.com/Fishgif/read-me-generator
 
 ## Table of Contents
@@ -17,7 +17,7 @@ When creating an open source project on GitHub, it’s important to have a high-
 > * [Questions](#questions)
 
 ## [Developer](#developer)
-[Marc](https://github.com/Fishgif)
+[Marc Fischer](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project.
@@ -27,7 +27,7 @@ JavaScript,Node,Inquirer
 N/A
 
 ## [Usage](#usage)
-n/A
+N/A
 
 ## [Tests](#tests)
 N/A
@@ -36,12 +36,12 @@ N/A
 Please email [fischerbootcamp@gmail.com](mailto:fischerbootcamp@gmail.com) with any project questions.
 
 ## [Description](#description)
-   When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app takes the hastle out of having to start from scratch for each assignment. Its takes all the hastle out byt allowong you to forllow a step by step process to generate a professional read me each ocaasiion. Saving you valuable time.
->> - Deployed Project URL: https://fishgif.github.io/read-me-generator/
+   When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app saves you time and effort buy geberating a high quality read me.
+>> - Deployed Project URL:  https://fishgif.github.io/read-me-generator/
 >> - Project Repository URL: https://github.com/Fishgif/read-me-generator
 
 ## [Developer](#developer)
-[Marc](https://github.com/Fishgif)
+[Marc Fischer](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project:
@@ -54,7 +54,7 @@ N/A
 Apache License 2.0
 
 ## [Usage](#usage)
-n/A
+N/A
 
 ## [Tests](#tests)
 N/A
