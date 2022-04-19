@@ -7,30 +7,6 @@ const { dirname } = require('path');
 
 // Use inquirer to ask questions
 inquirer.prompt([
-// {
-//     type:'input',
-//     message: 'What is the name of your project?',
-//     name:'Title'
-// },
-// {
-//     type:'input',
-//     message: 'What is the name of your project?',
-//     name:'desc'
-// },
-// {
-//     type:'list',
-//     message: 'Choose license?',
-//     choices:[
-
-//         "MIT License",
-//         "Apache License 2.0",
-//         "GPL License (aka GNU General Public License v3.0)",
-//         "BSD License(2-clause)",
-//         "BSD License(3-clause)",
-//         "BSD License(4-clause)",
-//     ],
-//     name:'license'
-// },
 {
 type: 'input',
 name: 'title',
@@ -175,20 +151,6 @@ validate: usage => {
     }
 }
 },
-// {
-// type: 'list',
-// name: 'licenseX',
-// message: 'Please select a license for this project. Choose "None" if a license does not apply. (Required)',
-// choices: licenseArr,
-// validate: licenseX => {
-//     if (licenseX) {
-//         return true;
-//     } else {
-//         console.log('A license choice is required. Please choose "None" if a license does not apply.');
-//         return false;
-//     }
-// }
-// }
 {
         type:'list',
         message: 'Choose license?',
@@ -209,14 +171,7 @@ validate: usage => {
     console.log(answers);
 
     const readmeContent = readme.generateReadme(answers);
+   
     // Save read me content to readme.md file 
     fs.writeFileSync('readme.md', readmeContent, 'utf8');
-})
-
-// Title
-
-// Desc
-
-// Installation
-
-// License 
+});

@@ -1,10 +1,10 @@
 
-# [Reade Me geberarotr](#title)
+# [Professional README Generator](#title)
 
 ## [Description](#description)
-To generate a clean read em 
->> - Deployed Project URL: www.ddd
->> - Project Repository URL: www.ff
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app takes the hastle out of having to start from scratch for each assignment. Its takes all the hastle out byt allowong you to forllow a step by step process to generate a professional read me each ocaasiion. Saving you valuable time.
+>> - Deployed Project URL: https://fishgif.github.io/read-me-generator/
+>> - Project Repository URL: https://github.com/Fishgif/read-me-generator
 
 ## Table of Contents
 > * [Title](#title)
@@ -17,62 +17,47 @@ To generate a clean read em
 > * [Questions](#questions)
 
 ## [Developer](#developer)
-[Marc](https://github.com/fishGif)
+[Marc](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project.
 JavaScript,Node,Inquirer
 
 ## [Installation](#installation)
-None
+N/A
 
 ## [Usage](#usage)
-Personal
+n/A
 
 ## [Tests](#tests)
-none
+N/A
 
 ## [Questions](#questions)
-Please email [fischermarc@mac.com](mailto:fischermarc@mac.com) with any project questions.
-
-} else
-    return # [Reade Me geberarotr](#title)
+Please email [fischerbootcamp@gmail.com](mailto:fischerbootcamp@gmail.com) with any project questions.
 
 ## [Description](#description)
-   To generate a clean read em 
->> - Deployed Project URL: www.ddd
->> - Project Repository URL: www.ff
-
-
-## Table of Contents
-> * [Title](#title)
-> * [Description](#description)
-> * [Developer](#developer)
-> * [Resources](#resources)
-> * [Installation](#installation) 
-> * [license](#license) 
-> * [Usage](#usage)
-> * [Tests](#tests)
-> * [Questions](#questions)
+   When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app takes the hastle out of having to start from scratch for each assignment. Its takes all the hastle out byt allowong you to forllow a step by step process to generate a professional read me each ocaasiion. Saving you valuable time.
+>> - Deployed Project URL: https://fishgif.github.io/read-me-generator/
+>> - Project Repository URL: https://github.com/Fishgif/read-me-generator
 
 ## [Developer](#developer)
-[Marc](https://github.com/fishGif)
+[Marc](https://github.com/Fishgif)
 
 ## [Resources](#resources)
-The following resources were used in the development of this project.
+The following resources were used in the development of this project:
 JavaScript,Node,Inquirer
 
 ## [Installation](#installation)
-None
+N/A
 
 ##[License](#license) 
 Apache License 2.0
 
 ## [Usage](#usage)
-Personal
+n/A
 
 ## [Tests](#tests)
-none
+N/A
 
 ## [Questions](#questions)
-Please email [fischermarc@mac.com](mailto:fischermarc@mac.com) with any project questions.
+Please email [fischerbootcamp@gmail.com](mailto:fischerbootcamp@gmail.com) with any project questions.

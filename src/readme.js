@@ -39,9 +39,6 @@ ${answers.test}
 ## [Questions](#questions)
 Please email [${answers.email}](mailto:${answers.email}) with any project questions.
 
-} else
-    return # [${answers.title}](#title)
-
 ## [Description](#description)
    ${answers.description}
 >> - Deployed Project URL: ${answers.deployedLink}
@@ -51,7 +48,7 @@ Please email [${answers.email}](mailto:${answers.email}) with any project questi
 [${answers.developer}](https://github.com/${answers.githubId})
 
 ## [Resources](#resources)
-The following resources were used in the development of this project.
+The following resources were used in the development of this project:
 ${answers.languages}
 
 ## [Installation](#installation)
