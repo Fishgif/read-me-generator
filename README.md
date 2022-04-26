@@ -1,10 +1,10 @@
 
-# [Professional README Generator](#title)
+# [Read Me Generator](#title)
 
 ## [Description](#description)
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app saves you time and effort buy generating a high quality read me.
->> - Deployed Project URL:  https://fishgif.github.io/read-me-generator/
->> - Project Repository URL: https://github.com/Fishgif/read-me-generator
+The app allows you to generate a high quality readme file and save valuable time.
+>> - Deployed Project URL:  https://github.com/Fishgif/read-me-generator
+>> - Project Repository URL:  https://fishgif.github.io/read-me-generator/
 
 ## Table of Contents
 > * [Title](#title)
@@ -17,17 +17,17 @@ When creating an open source project on GitHub, it’s important to have a high-
 > * [Questions](#questions)
 
 ## [Developer](#developer)
-[Marc Fischer](https://github.com/Fishgif)
+[MArc Fischer](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project.
 JavaScript,Node,Inquirer
 
 ## [Installation](#installation)
-N/A
+none
 
 ## [Usage](#usage)
-N/A
+Video of project https://youtu.be/Qa_qXYEkYn4
 
 ## [Tests](#tests)
 N/A
@@ -36,25 +36,25 @@ N/A
 Please email [fischerbootcamp@gmail.com](mailto:fischerbootcamp@gmail.com) with any project questions.
 
 ## [Description](#description)
-   When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This app saves you time and effort buy geberating a high quality read me.
->> - Deployed Project URL:  https://fishgif.github.io/read-me-generator/
->> - Project Repository URL: https://github.com/Fishgif/read-me-generator
+   The app allows you to generate a high quality readme file and save valuable time.
+>> - Deployed Project URL:  https://github.com/Fishgif/read-me-generator
+>> - Project Repository URL:  https://fishgif.github.io/read-me-generator/
 
 ## [Developer](#developer)
-[Marc Fischer](https://github.com/Fishgif)
+[MArc Fischer](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project:
 JavaScript,Node,Inquirer
 
 ## [Installation](#installation)
-N/A
+none
 
 ##[License](#license) 
 Apache License 2.0
 
 ## [Usage](#usage)
-N/A
+Video of project https://youtu.be/Qa_qXYEkYn4
 
 ## [Tests](#tests)
 N/A
