@@ -2,9 +2,9 @@
 # [Read Me Generator](#title)
 
 ## [Description](#description)
-The app allows you to generate a high quality readme file and save valuable time.
->> - Deployed Project URL:  https://github.com/Fishgif/read-me-generator
->> - Project Repository URL:  https://fishgif.github.io/read-me-generator/
+To takt ethe stress out of creating a high quality read me 
+>> - Deployed Project URL:  https://fishgif.github.io/read-me-generator/
+>> - Project Repository URL: https://github.com/Fishgif/read-me-generator
 
 ## Table of Contents
 > * [Title](#title)
@@ -17,17 +17,17 @@ The app allows you to generate a high quality readme file and save valuable time
 > * [Questions](#questions)
 
 ## [Developer](#developer)
-[MArc Fischer](https://github.com/Fishgif)
+[Marc Fischer](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project.
 JavaScript,Node,Inquirer
 
 ## [Installation](#installation)
-none
+Inquirer
 
 ## [Usage](#usage)
-Video of project https://youtu.be/Qa_qXYEkYn4
+Watch teh youtube vidio at https://youtu.be/Qa_qXYEkYn4
 
 ## [Tests](#tests)
 N/A
@@ -36,25 +36,25 @@ N/A
 Please email [fischerbootcamp@gmail.com](mailto:fischerbootcamp@gmail.com) with any project questions.
 
 ## [Description](#description)
-   The app allows you to generate a high quality readme file and save valuable time.
->> - Deployed Project URL:  https://github.com/Fishgif/read-me-generator
->> - Project Repository URL:  https://fishgif.github.io/read-me-generator/
+   To takt ethe stress out of creating a high quality read me 
+>> - Deployed Project URL:  https://fishgif.github.io/read-me-generator/
+>> - Project Repository URL: https://github.com/Fishgif/read-me-generator
 
 ## [Developer](#developer)
-[MArc Fischer](https://github.com/Fishgif)
+[Marc Fischer](https://github.com/Fishgif)
 
 ## [Resources](#resources)
 The following resources were used in the development of this project:
 JavaScript,Node,Inquirer
 
 ## [Installation](#installation)
-none
+Inquirer
 
 ##[License](#license) 
-Apache License 2.0
+MIT License
 
 ## [Usage](#usage)
-Video of project https://youtu.be/Qa_qXYEkYn4
+Watch teh youtube vidio at https://youtu.be/Qa_qXYEkYn4
 
 ## [Tests](#tests)
 N/A
